@@ -4,17 +4,17 @@
 ### Live Dashboard at Novypro [novipro link](https://www.novypro.com/project/car-sales-analysis-dashboard-by-saddam-ansari)
 #
 ### Table of content
- - [Project Overview](project-overview)
- - [Project-Goal](project-goals)
- - [Tools Used](tools-used)
- - [Data Cleaning/Preparation](data-cleaningpreparation)
- - [Problem staement 1: KPI's Requirment](problem-satement-1-kpis-requirment)
- - [Problem Statement 2: Charts Requirement](problem-statement-2-charts-requirement)
- - [Key Findings/Insights](key-findinginsights)
- - [Additional Insights](additional-insights)
- - [Top 5 Companies by Car Sales](top-5-companies-by-car-sales)
- - [Dealers Analysis](dealers-analysis)
- - [RegionBased Sales Analysis](regionbased-sales-analysis)
+ - [Project Overview](#project-overview)
+ - [Project Goals](#project-goals)
+ - [Tools Used](#tools-used)
+ - [Data Cleaning/Preparation](#data-cleaningpreparation)
+ - [Problem staement 1: KPI's Requirment](#problem-satement-1-kpis-requirment)
+ - [Problem Statement 2: Charts Requirement](#problem-statement-2-charts-requirement)
+ - [Key Findings/Insights](#key-findinginsights)
+ - [Additional Insights](#additional-insights)
+ - [Top 5 Companies by Car Sales](#top-5-companies-by-car-sales)
+ - [Dealers Analysis](#dealers-analysis)
+ - [RegionBased Sales Analysis](#regionbased-sales-analysis)
 #
 
 ### Project Overview
