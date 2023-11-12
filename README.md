@@ -8,10 +8,10 @@
  - [Project Goals](#project-goals)
  - [Tools Used](#tools-used)
  - [Data Cleaning/Preparation](#data-cleaningpreparation)
- - [Problem staement 1: KPI's Requirment](#problem-satement-1-kpis-requirment)
+ - [Problem statement 1: KPI's Requirment](#problem-statement-1-kpis-requirment)
  - [Problem Statement 2: Charts Requirement](#problem-statement-2-charts-requirement)
- - [Key Findings/Insights](#key-findinginsights)
- - [Additional Insights](#additional-insights)
+ - [Key Findings/Insights](#key-findingsinsights)
+ - [Aditional Insights](#aditional-insights)
  - [Top 5 Companies by Car Sales](#top-5-companies-by-car-sales)
  - [Dealers Analysis](#dealers-analysis)
  - [RegionBased Sales Analysis](#regionbased-sales-analysis)
@@ -42,7 +42,7 @@ In the initial data preparation phase, I performed the following task:
 
 #
 
-### Problem staement 1: KPI's Requirment
+### Problem statement 1: KPI's Requirment
 The dashboard should provide real-time insights into key performance indicators (KPIs) related to our sales data. This will enable us to make informed decisions, monitor our progress, and identify trends and opportunities for growth.
 
 1.Sales Overview:
@@ -83,7 +83,7 @@ The dashboard provides a wealth of insights into the dealership's car sales perf
 
 #
 
-### Additional Insights
+### Aditional Insights
  - YTD Sales Weekly Trend: Notable peaks in weeks 39, 46, and 50.
  - YTD Total Sales by Body Style: SUVs take the lead.
  - YTD Total Sales by Color: Pearl White cars stand out with 11.26k sales, followed by black and red cars.
